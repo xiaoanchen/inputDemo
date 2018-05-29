@@ -1,0 +1,1 @@
+<input   bindtap = 'test' class="input"></input>
